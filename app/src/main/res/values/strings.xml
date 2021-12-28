@@ -90,4 +90,10 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="action_settings">Settings</string>
+    <string-array name="playback_speed">
+        <item>0.5x</item>
+        <item>1x</item>
+        <item>2x</item>
+        <item>4x</item>
+    </string-array>
 </resources>
